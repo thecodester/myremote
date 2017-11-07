@@ -1,5 +1,5 @@
 {
-  "welcomeFile": "/webapp/index.html",
+  "welcomeFile1": "/webapp/index.html",
   "routes": [
     {
       "path": "/resources",
